@@ -1,0 +1,100 @@
+.logo {
+  -webkit-transform: translateY(-4em);
+          transform: translateY(-4em);
+}
+
+.gc-main-container {
+  height: 100vh;
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: whitesmoke;
+}
+
+.gc-box {
+  width: 350px;
+  text-align: center;
+  -webkit-box-shadow: 1px 4px 18px 11px whitesmoke;
+          box-shadow: 1px 4px 18px 11px whitesmoke;
+  padding: 20px 30px 40px 30px;
+  -webkit-transform: translateY(-3em);
+          transform: translateY(-3em);
+  background-color: white;
+  border-radius: 20px;
+}
+
+.gc-box .text-field {
+  margin: 1em 0;
+}
+
+.gc-box .btn {
+  margin: .5em 0;
+}
+
+.gc-box input {
+  display: block;
+  width: 93%;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #cccccc;
+  outline: none;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+}
+
+.gc-box input:focus {
+  border: 1px solid #9900EF;
+}
+
+.gc-box button {
+  width: 100%;
+  display: block;
+}
+
+.gc-box h3 {
+  color: #9900EF;
+}
+
+.buy-coupon {
+  text-align: center;
+}
+
+.buy-coupon span {
+  color: #202020;
+}
+
+.buy-coupon a {
+  display: inline-block;
+  margin: 0 1em;
+  color: #9900EF;
+}
+
+@media (max-width: 450px) {
+  .gc-box {
+    width: 80%;
+  }
+}
+
+@media (max-width: 380px) {
+  .gc-box {
+    width: 250px;
+  }
+  .gc-box span, .buy-coupon span, .buy-coupon a {
+    font-size: 12px;
+  }
+  .logo {
+    font-size: 18px;
+  }
+}
+/*# sourceMappingURL=GetCoupon.css.map */
