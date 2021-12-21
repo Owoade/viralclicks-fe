@@ -235,6 +235,7 @@ svg {
   position: absolute;
   height: 100vh;
   top: 18em;
+  pointer-events:none;
 }
 
 .about-container {
@@ -349,8 +350,10 @@ svg {
 .package:hover {
   border-radius: 10px;
   background: #e0e0e0;
-  -webkit-box-shadow: -20px -20px 60px #bebebe, 20px 20px 60px #ffffff;
-          box-shadow: -20px -20px 60px #bebebe, 20px 20px 60px #ffffff;
+  -webkit-box-shadow: -20px -20px 60px #bebebe,
+ 20px 20px 60px #ffffff;
+          box-shadow: -20px -20px 60px #bebebe,
+ 20px 20px 60px #ffffff;
   background-color: #9900EF;
   color: white;
   -webkit-transform: scale(1.1);
@@ -863,8 +866,10 @@ footer .container {
           transform: scale(1);
   background: #fff;
   border-radius: 10px;
-  -webkit-box-shadow: -20px -20px 60px #bebebe, 20px 20px 60px #ffffff;
-          box-shadow: -20px -20px 60px #bebebe, 20px 20px 60px #ffffff;
+  -webkit-box-shadow: -20px -20px 60px #bebebe,
+ 20px 20px 60px #ffffff;
+          box-shadow: -20px -20px 60px #bebebe,
+ 20px 20px 60px #ffffff;
   color: black;
 }
 
