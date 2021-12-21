@@ -9,7 +9,7 @@ const Home = () => {
                 <div className="hero-text">
                     <h1>THE BEST MINING PLATFORM</h1>
                     <p>Viralclicks is a well structured and registered trading platform created solely for your wealth creation.</p>
-                    <a href="#" class="btn">Start Mining</a>
+                    <a href="https://viralclicks-db.vercel.app" class="btn">Start Mining</a>
                 </div>
                 <svg width="100%" height="50%" id="svg" viewBox="0 0 1440 400" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150">
                     <path d="M 0,400 C 0,400 0,133 0,133 C 93.26153846153846,155.8948717948718 186.52307692307693,178.7897435897436 268,171 C 349.4769230769231,163.2102564102564 419.1692307692308,124.73589743589743 490,121 C 560.8307692307692,117.26410256410257 632.8000000000001,148.26666666666668 701,158 C 769.1999999999999,167.73333333333332 833.6307692307691,156.19743589743587 924,140 C 1014.3692307692309,123.80256410256412 1130.676923076923,102.94358974358975 1221,101 C 1311.323076923077,99.05641025641025 1375.6615384615384,116.02820512820512 1440,133 C 1440,133 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="#9900ef88" class="transition-all duration-300 ease-in-out delay-150 path-0"></path>
