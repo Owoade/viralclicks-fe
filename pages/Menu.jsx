@@ -10,7 +10,7 @@ const menu = () => {
             <Link href="/Our-Packages">Our Packages</Link>
             <Link href="/buy-coupon-code">Buy Coupon Code</Link>
             <Link href="/how-it-works">How It Works</Link>
-           <> <Link href="/how-it-works">Home</Link></> 
+           <> <Link href="/">Home</Link></> 
             {/* <Link href="/buy-coupon-code">Buy Coupon Code</Link> */}
             
           </nav>
