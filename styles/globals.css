@@ -233,7 +233,7 @@ nav a {
 
 svg {
   position: absolute;
-  height: 60vh;
+  height: 100vh;
   top: 18em;
   
   pointer-events:none;
