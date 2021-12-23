@@ -3,7 +3,7 @@ const Header = () => {
     return ( 
         <header>
         <div className="container flex space-between">
-            <p className="logo"><img src="img/logo.jpeg" style={{width:'100px'}} /></p>
+            <p className="logo"><img src="img/logo.jpeg" style={{width:"200px"}} /></p>
             <nav>
                 <a href="/">Home</a>
                 <a href="/Our-Packages">Our Packages</a>
