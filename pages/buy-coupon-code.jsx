@@ -41,7 +41,7 @@ const Buy_coupon_code = () => {
                                 <strong>3</strong>
                                 <strong>SULAIMAN OLATECH </strong>
                                 <strong>09064663896</strong>
-                                <a href="https://wa.me/+2349064663896><i class="ri-whatsapp-fill"></i></a>
+                                <a href="https://wa.me/+2349064663896"><i class="ri-whatsapp-fill"></i></a>
                                 <a href="tel:09064663896"><i class="ri-phone-fill"></i></a>
                             </div>
                             <div className="dispatcher flex space-around">
