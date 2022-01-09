@@ -55,7 +55,7 @@ const How_it_works = () => {
                            <span> <strong>Welcome Bonus </strong>  #1,000</span>
                            <span> <strong> Affiliate Bonus</strong> #5,000</span>
                            <span> <strong> Second level Affiliate Bonus</strong> #400</span>
-                           <span> <strong>Mine Duration </strong>Hourly</span>
+                           <span> <strong>Mine Duration </strong> Hourly</span>
                            <span> <strong>Daily Earning </strong> #1,500</span>
                            <span> <strong>Weekly Earning</strong> #10,500</span>
                            <span> <strong>Monthly Earning</strong> #42,000</span>
@@ -70,7 +70,7 @@ const How_it_works = () => {
                            <span> <strong>Welcome Bonus </strong> #1,500</span>
                            <span> <strong> Affiliate Bonus</strong> #10,000</span>
                            <span> <strong> Second level Affiliate Bonus</strong> #800</span>
-                           <span> <strong>Mine Duration </strong>Hourly</span>
+                           <span> <strong>Mine Duration </strong> Hourly</span>
                            <span> <strong>Daily Earning </strong> #3,200</span>
                            <span> <strong>Weekly Earning</strong> #22,400</span>
                            <span> <strong>Monthly Earning</strong> #89,600</span>
