@@ -12,7 +12,7 @@ const Header = () => {
                 {/* <a href="https://viralclicks-db.vercel.app/verify">Verify Coupon Code</a> */}
             </nav>
             <div className="btns">
-                <a href="#" className="btn">Sign Up</a>
+                <a href="#" className="btn">Get started</a>
             </div>
            <Link href="/Menu"><i className="ri-menu-line"></i></Link> 
         </div>
